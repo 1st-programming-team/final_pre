@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1493437056 source:c:\users\xlnx\desktop\unknown\src\parser.c
+	"parser.h"
+
+1493436970 c:\users\xlnx\desktop\unknown\include\parser.h
+	"poly.h"
+	"lexer.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1493437467 c:\users\xlnx\desktop\unknown\include\poly.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1493351762 c:\users\xlnx\desktop\unknown\include\lexer.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1493438236 source:c:\users\xlnx\desktop\unknown\src\poly.c
+	"poly.h"
+
+1493437011 source:c:\users\xlnx\desktop\unknown\src\unknown.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"parser.h"
+
+1493351751 source:c:\users\xlnx\desktop\unknown\src\lexer.c
+	"lexer.h"
+
+1493561371 source:c:\users\xlnx\desktop\poly\src\lexer.c
+	"lexer.h"
+
+1493560785 c:\users\xlnx\desktop\poly\include\lexer.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1493713041 source:c:\users\xlnx\desktop\poly\src\parser.c
+	"parser.h"
+
+1493436970 c:\users\xlnx\desktop\poly\include\parser.h
+	"poly.h"
+	"lexer.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1493561517 c:\users\xlnx\desktop\poly\include\poly.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1493716536 source:c:\users\xlnx\desktop\poly\src\poly.c
+	"poly.h"
+
+1493738632 source:c:\users\xlnx\desktop\poly\src\unknown.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"parser.h"
+	"trie.h"
+
+1493737553 source:c:\users\xlnx\desktop\poly\src\trie.c
+	"trie.h"
+
+1493736122 c:\users\xlnx\desktop\poly\include\trie.h
+	"poly.h"
+
