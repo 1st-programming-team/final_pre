@@ -1,0 +1,6 @@
+﻿  sort.c
+c:\users\xlnx\desktop\home\home\sort.c(153): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  mergesort.c
+  正在生成代码...
+  Home.vcxproj -> C:\Users\xlnx\Desktop\Home\Debug\Home.exe
+  Home.vcxproj -> C:\Users\xlnx\Desktop\Home\Debug\Home.pdb (Partial PDB)
